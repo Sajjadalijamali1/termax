@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 
 # read the contents of README file
 from os import path
-from io import open  # for Python 2 and 3 compatibility
+from io import open  # for Python 2 and 3 compatibility9999
 
 # get __version__ from _version.py
 ver_file = path.join('termax', 'version.py')
